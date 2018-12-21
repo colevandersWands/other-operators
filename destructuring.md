@@ -1,0 +1,1 @@
+object & array destructuring, plus some exercises
