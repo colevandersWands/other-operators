@@ -1,1 +1,0 @@
-the delete operator and some exercises
